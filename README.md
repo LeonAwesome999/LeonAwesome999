@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and all kinds of sports
 - 🌱 I’m currently learning data analysis and mathematics in university
 - 💞️ I’m looking to collaborate on something easy to learn, coz I'm still a freshman on coding..
-- 📫 How to reach me? 731574369@qq.com is probably the best way!
+- 📫 How to reach me? Leonnnn9999@gmail.com is probably the best way!
 
 <!---
 LeonAwesome999/LeonAwesome999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
